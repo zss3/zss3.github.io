@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/Projects/Rosewood_Coast.html)
+[Rosewood Coast Project](/Projects/Rosewood_Coast)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
