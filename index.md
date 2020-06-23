@@ -5,7 +5,7 @@
 <!--### Category Name 1 -->
 
 [Rosewood Coast Project](/Projects/Rosewood_Coast)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/rosewood_coast_thumb.png"/>
 
 ---
 <!-- [Project 2 Title](/pdf/sample_presentation.pdf)
