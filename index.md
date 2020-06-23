@@ -4,7 +4,8 @@
 
 <!--### Category Name 1 -->
 
-[Rosewood Coast Project](/Projects/Rosewood_Coast)
+[Rosewood Coast Website Build](/Projects/Rosewood_Coast)
+<br>
 <br>
 <a href="https://zss3.github.io/Projects/Rosewood_Coast"> 
 <img src="images/rosewood_coast_thumb.png"/> </a>
