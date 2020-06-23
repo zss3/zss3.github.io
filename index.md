@@ -5,17 +5,19 @@
 <!--### Category Name 1 -->
 
 [Rosewood Coast Project](/Projects/Rosewood_Coast)
-<img src="images/rosewood_coast_thumb.png"/>
+<br>
+<a href="https://zss3.github.io/Projects/Rosewood_Coast"> 
+<img src="images/rosewood_coast_thumb.png"/> </a>
 
----
+
 <!-- [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
----
+
 <!--[Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>  -->
 
----
+
 
 <!--### Category Name 2
 
@@ -25,7 +27,7 @@
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/) -->
 
----
+
 
 
 
