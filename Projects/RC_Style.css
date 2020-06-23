@@ -6,7 +6,7 @@ body{
     resize:both;
 }
 .page1{
-    background:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),url(./project_images/website_background.jpeg);
+    background:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),url(.//project_images/website_background.jpeg);
     background-repeat:no-repeat;
     background-size:cover;
     background-position: center;
