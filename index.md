@@ -11,7 +11,7 @@
 
 
 [Kali Marsh Theatre Website](/Website_Projects/Kali_Website/index.html)
-<a href="zss3.github.io/Website/Projects/Kali_Website/index.html">
+<a href="https://zss3.github.io/Website/Projects/Kali_Website/index">
 <img src="images/dummy_thumbnail.jpg?raw=true"/> </a>
 
 
