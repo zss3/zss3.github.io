@@ -10,7 +10,7 @@
 <img src="images/rosewood_coast_thumb.png"/> </a>
 
 
-<!-- [Project 2 Title](/pdf/sample_presentation.pdf)
+<!-- [Kali Marsh Theatre Website](/Website_Projects/Kali_Website)
 <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
 
