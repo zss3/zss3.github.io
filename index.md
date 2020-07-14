@@ -10,8 +10,9 @@
 <img src="images/rosewood_coast_thumb.png"/> </a>
 
 
-<!-- [Kali Marsh Theatre Website](/Website_Projects/Kali_Website)
-<img src="images/dummy_thumbnail.jpg?raw=true"/> -->
+[Kali Marsh Theatre Website](/Website_Projects/Kali_Website/index.html)
+<a href="zss3.github.io/Website/Projects/Kali_Website/index.html">
+<img src="images/dummy_thumbnail.jpg?raw=true"/> </a>
 
 
 <!--[Project 3 Title](http://example.com/)
