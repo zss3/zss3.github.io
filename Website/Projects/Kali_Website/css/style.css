@@ -93,7 +93,7 @@ a#navicon:hover+ul, nav ul:hover{
 
 h1{
     font-size: 3.5em; 
-    padding-top: 5%;
+    padding-top: 3%;
     text-shadow: 2px 1px #000000;
     letter-spacing: .05em;
     
@@ -543,13 +543,13 @@ footer a{
         line-height: 1.3em;
     }
     h1{
-    padding-top: 4%;
-    text-shadow: 3px 3px #000000;
+    padding-top: 3%;
+    text-shadow: 3px 2px #000000;
     letter-spacing: .05em;
 }
     h2{
     padding-top: 1%;
-    text-shadow: 2px 2px #000000;
+    text-shadow: 2px 1px #000000;
 }
     #resume_button{
     padding: 4%;
@@ -605,8 +605,10 @@ nav ul {
     float: none;
     margin-top: 0%;
     margin-bottom: 0%; 
-    padding-top: 3%;
-    padding-bottom: 3%;
+    padding-top: 3.5%;
+    padding-bottom: 3.5%;
+    font-size: 1em;
+    line-height: 0;
 }
     nav ul li{
     padding-top: 0;
@@ -615,7 +617,7 @@ nav ul {
     text-decoration-line: none;
     }
     h1, #body_content h1{
-    font-size: 4em;
+    font-size: 3.7em;
     padding-top: 2%;
     }
    header:hover ~ .row_videos{
