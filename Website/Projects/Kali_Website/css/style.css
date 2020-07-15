@@ -53,7 +53,7 @@ nav ul {
     line-height: 1.7em;
     position: absolute;
     z-index: 999;
-    text-shadow: .3px .3px #000000; 
+    text-shadow: .8px .3px #000000; 
 }
 nav ul li{
     padding-top: 0;
@@ -91,15 +91,15 @@ a#navicon:hover+ul, nav ul:hover{
     padding-bottom: 90%;
 }
 
-h1{
-    font-size: 3.5em; 
+h1, #body_content h1{
+    font-size: 2.7em; 
     padding-top: 3%;
     text-shadow: 2px 1px #000000;
     letter-spacing: .05em;
     
 }
 h2{
-    font-size: .9em;
+    font-size: 1em;
     padding-top: 1%;
     text-shadow: 1px 1px #000000;
 }
@@ -170,14 +170,12 @@ header:hover ~ #welcome_page{
     padding-bottom: 10%;
     
 }
-#body_content h1{
-    padding-top: 5%;
-    padding-bottom: 2%;
-}
+
 #about_side_img{
     max-width: 90%;
     border-radius: 5px;
     padding-bottom: 2%;
+    padding-top: 10%;
 }
 #body_content p{
     padding-bottom: 10%;
@@ -514,6 +512,9 @@ footer a{
     width:100px;
     margin-top: 60px;
     }
+    h1, #body_content h1{
+        font-size: 2.9em;
+    }
 }
 
 /* ===============================
@@ -522,7 +523,7 @@ footer a{
 */
 @media only screen and (min-width: 652px){
     #welcome_page{
-    padding-bottom: 52%;
+    padding-bottom: 48%;
 }
     body{
     font-size: 1.2em;
@@ -542,14 +543,16 @@ footer a{
         margin-right: 8%;
         line-height: 1.3em;
     }
-    h1{
+    h1, #body_content h1{
     padding-top: 3%;
     text-shadow: 3px 2px #000000;
     letter-spacing: .05em;
+    font-size: 3.1em;
+        
 }
     h2{
     padding-top: 1%;
-    text-shadow: 2px 1px #000000;
+    text-shadow: 2px .5px #000000;
 }
     #resume_button{
     padding: 4%;
