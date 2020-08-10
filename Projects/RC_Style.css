@@ -964,9 +964,10 @@ a#navicon:hover+ul, nav ul:hover{
     border-radius: 12px;
     }
     #Spotify_widget{
-    margin-left: 8%;
+    margin-left: 2%;
     float: left;   
     margin-top: 5%;
+    width: 5%;
     }
     
         .page1{
@@ -978,7 +979,7 @@ a#navicon:hover+ul, nav ul:hover{
         }
     
     #Apple_widget{
-        margin-right: 8%;
+        margin-right: 2%;
         margin-top: 5%;
         float: right;
 
