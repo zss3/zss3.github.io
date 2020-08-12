@@ -7,12 +7,12 @@
 [Rosewood Coast Website Build](/Projects/Rosewood_Coast)
 <br>
 <a href="https://zss3.github.io/Projects/Rosewood_Coast"> 
-<img src="images/rosewood_coast_thumb.jp2"/> </a>
+<img src="images/rosewood_coast_thumb.png"/> </a>
 
 
 [Kali Marsh Theatre Website](/Website_Projects/Kali_Website/index.html)
 <a href="https://zss3.github.io/Website_Projects/Kali_Website/index">
-<img src="images/kali_site_thumb.jp2"/> </a>
+<img src="images/kali_site_thumb.png"/> </a>
 
 
 <!--[Project 3 Title](http://example.com/)
