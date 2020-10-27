@@ -15,7 +15,7 @@
 <img src="images/kali_site_thumb.png"/> </a>
 
 
-[Project 3 Title](//landing_page/landing.html)
+[Project 3 Title](../landing_page/landing.html)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 
