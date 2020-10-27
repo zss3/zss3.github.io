@@ -10,13 +10,15 @@
 <img src="images/rosewood_coast_thumb.png"/> </a>
 
 
-[Kali Marsh Theatre Website](/Website/Projects/Kali_Website/index.html)
-<a href="https://zss3.github.io/Website/Projects/Kali_Website/index.html">
+[Kali Marsh Theatre Website](/Website/Projects/Kali_Website/index)
+<br>
+<a href="https://zss3.github.io/Website/Projects/Kali_Website/index">
 <img src="images/kali_site_thumb.png"/> </a>
 
 
-[Landing Page](https://zss3.github.io/landing_page/landing.html)
-<a href= "https://zss3.github.io/landing_page/landing.html" >
+[Landing Page](https://zss3.github.io/landing_page/landing)
+<br>
+<a href= "https://zss3.github.io/landing_page/landing">
 <img src="images/landing_image.png"/> </a>
 
 
