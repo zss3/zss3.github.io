@@ -2,39 +2,34 @@
 
 ---
 
-<!--### Category Name 1 -->
+### Category Name 1 
 
-[Rosewood Coast Website Build](/Projects/Rosewood_Coast)
-<br>
-<a href="https://zss3.github.io/Projects/Rosewood_Coast"> 
-<img src="images/rosewood_coast_thumb.png"/> </a>
+[Project 1 Title](/sample_page)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
+---
+[Project 2 Title](/pdf/sample_presentation.pdf)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-[Kali Marsh Theatre Website](/Website/Projects/Kali_Website/index)
-<br>
-<a href="https://zss3.github.io/Website/Projects/Kali_Website/index">
-<img src="images/kali_site_thumb.png"/> </a>
+---
+[Project 3 Title](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
+---
 
-[Landing Page](https://zss3.github.io/landing_page/landing)
-<br>
-<a href= "https://zss3.github.io/landing_page/landing">
-<img src="images/landing_image.png"/> </a>
+### Category Name 2
 
-
-
-<!--### Category Name 2 empty commit
-
-<!--- [Project 1 Title](http://example.com/)
+- [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/) -->
+- [Project 5 Title](http://example.com/)
 
+---
 
 
 
 
 ---
-<!-- <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p> -->
+<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
