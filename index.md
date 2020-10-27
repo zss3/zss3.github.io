@@ -2,7 +2,6 @@
 
 ---
 
-### Category Name 1 
 
 [Rosewood Coast Website Build](/Projects/Rosewood_Coast)
 <br>
@@ -10,7 +9,7 @@
 <img src="images/rosewood_coast_thumb.png"/> </a>
 
 ---
-
+[Kali Marsh Theatre Website Build](/Website/Projects/Kali_Website/index)
 <a href="https://zss3.github.io/Website/Projects/Kali_Website/index">
 <img src="images/kali_site_thumb.png"/> </a>
 
@@ -19,19 +18,6 @@
 <br>
 <a href= "https://zss3.github.io/landing_page/landing">
 <img src="images/landing_image.png"/> </a>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
 
 
 
