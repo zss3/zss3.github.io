@@ -17,7 +17,7 @@
 
 [Landing Page](https://zss3.github.io/landing_page/landing.html)
 <a href= "https://zss3.github.io/landing_page/landing.html" >
-<img src="images/dummy_thumbnail.jpg?raw=true"/> </a>
+<img src="images/landing_image.png"/> </a>
 
 
 
