@@ -4,16 +4,21 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Rosewood Coast Website Build](/Projects/Rosewood_Coast)
+<br>
+<a href="https://zss3.github.io/Projects/Rosewood_Coast"> 
+<img src="images/rosewood_coast_thumb.png"/> </a>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+<a href="https://zss3.github.io/Website/Projects/Kali_Website/index">
+<img src="images/kali_site_thumb.png"/> </a>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Landing Page](https://zss3.github.io/landing_page/landing)
+<br>
+<a href= "https://zss3.github.io/landing_page/landing">
+<img src="images/landing_image.png"/> </a>
 
 ---
 
