@@ -9,9 +9,9 @@
 <img src="images/rosewood_coast_thumb.png"/> </a>
 
 ---
-[Kali Marsh Theatre Website Build](/Website/Projects/Kali_Website/index)
+[Kali Marsh Theatre Website Build](https://zss3.github.io/marsh_theatre_website/index)
 <br>
-<a href="https://zss3.github.io/Website/Projects/Kali_Website/index">
+<a href="https://zss3.github.io/marsh_theatre_website/index">
 <img src="images/kali_site_thumb.png"/> </a>
 
 ---
