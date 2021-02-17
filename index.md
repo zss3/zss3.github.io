@@ -3,7 +3,7 @@
 ---
 
 
-[Rosewood Coast Website Build](/rosewood_coast_website/Rosewood_Coast)
+[Rosewood Coast Website Build](https://zss3.github.io/rosewood_coast_website/Rosewood_Coast)
 <br>
 <a href="https://zss3.github.io/rosewood_coast_website/Rosewood_Coast"> 
 <img src="images/rosewood_coast_thumb.png"/> </a>
