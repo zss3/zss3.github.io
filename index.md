@@ -20,11 +20,5 @@
 <a href= "https://zss3.github.io/landing_page/landing">
 <img src="images/landing_image.png"/> </a>
 
-[Vending Machine](https://zss3.github.io/JavaVendingMachine/)
-<br>
-<a href= "https://zss3.github.io/JavaVendingMachine/">
-<img src="images/landing_image.png"/> </a>
-
 ---
-<!-- <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p> -->
-<!-- Remove above link if you don't want to attibute -->
+
