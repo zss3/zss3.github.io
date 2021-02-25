@@ -20,9 +20,9 @@
 <a href= "https://zss3.github.io/landing_page/landing">
 <img src="images/landing_image.png"/> </a>
 
-[Vending Machine](https://github.com/zss3/JavaVendingMachine)
+[Vending Machine](https://zss3.github.io/JavaVendingMachine/)
 <br>
-<a href= "https://github.com/zss3/JavaVendingMachine">
+<a href= "https://zss3.github.io/JavaVendingMachine/">
 <img src="images/landing_image.png"/> </a>
 
 ---
