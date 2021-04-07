@@ -11,7 +11,7 @@
 [Image Slider](https://zss3.github.io/image_slider/index)
 <br>
 <a href="https://zss3.github.io/image_slider/index">
-<img src="images/image_slider.png"/> </a>
+<img src="images/image_slider_thumbnail.png"/> </a>
 
 ---
 [Kali Marsh Theatre Website](https://zss3.github.io/marsh_theatre_website/index)
